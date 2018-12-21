@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Clicky-Game-Southpark/precache-manifest.864b90b76a38ae20ecd1f4b3b4c127a8.js"
+  "/Clicky-Game-Southpark/precache-manifest.d0aa1fd0a28a86b5c1d2645e32071486.js"
 );
 
 workbox.clientsClaim();
