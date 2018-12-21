@@ -1,0 +1,14 @@
+footer {
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: blue;
+    position: relative;
+    color: white;
+    margin-top: 50px;
+}
+
+h3 {
+    padding-top: 15px;
+    margin-bottom: 0;
+}

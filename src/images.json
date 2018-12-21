@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "path": "chef",
+    "beenClicked": false
+  },
+  {
+    "id": "2",
+    "path": "butters",
+    "beenClicked": false
+  },
+  {
+    "id": "3",
+    "path": "cartmen",
+    "beenClicked": false
+  }
+]
