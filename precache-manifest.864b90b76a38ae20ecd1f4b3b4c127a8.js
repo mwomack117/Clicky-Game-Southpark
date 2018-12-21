@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Clicky-Game-Southpark/static/media/ike.1b825341.png"
   },
   {
-    "revision": "d63fc1a71a16515c5112",
-    "url": "/Clicky-Game-Southpark/static/css/main.5f6f2f9b.chunk.css"
+    "revision": "63df9e394a6c3409b91b",
+    "url": "/Clicky-Game-Southpark/static/css/main.005418b0.chunk.css"
   },
   {
     "revision": "6a558196190899cd1d26",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/Clicky-Game-Southpark/static/media/garrison.e0fa4cab.png"
   },
   {
-    "revision": "d63fc1a71a16515c5112",
-    "url": "/Clicky-Game-Southpark/static/js/main.d63fc1a7.chunk.js"
+    "revision": "63df9e394a6c3409b91b",
+    "url": "/Clicky-Game-Southpark/static/js/main.63df9e39.chunk.js"
   },
   {
     "revision": "e79069616f21c44dfeda106e8341e89d",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/Clicky-Game-Southpark/static/media/token.f021edc0.png"
   },
   {
-    "revision": "80346158505f6ab893ff98964a69492a",
+    "revision": "72698c9ec37314e1b28f81ed69fa83ae",
     "url": "/Clicky-Game-Southpark/index.html"
   }
 ];

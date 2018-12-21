@@ -1,7 +1,7 @@
 {
-  "main.css": "/Clicky-Game-Southpark/static/css/main.5f6f2f9b.chunk.css",
-  "main.js": "/Clicky-Game-Southpark/static/js/main.d63fc1a7.chunk.js",
-  "main.js.map": "/Clicky-Game-Southpark/static/js/main.d63fc1a7.chunk.js.map",
+  "main.css": "/Clicky-Game-Southpark/static/css/main.005418b0.chunk.css",
+  "main.js": "/Clicky-Game-Southpark/static/js/main.63df9e39.chunk.js",
+  "main.js.map": "/Clicky-Game-Southpark/static/js/main.63df9e39.chunk.js.map",
   "static/js/1.6a558196.chunk.js": "/Clicky-Game-Southpark/static/js/1.6a558196.chunk.js",
   "static/js/1.6a558196.chunk.js.map": "/Clicky-Game-Southpark/static/js/1.6a558196.chunk.js.map",
   "runtime~main.js": "/Clicky-Game-Southpark/static/js/runtime~main.23aac79d.js",
@@ -18,8 +18,8 @@
   "static/media/PC.png": "/Clicky-Game-Southpark/static/media/PC.c0290148.png",
   "static/media/stan.png": "/Clicky-Game-Southpark/static/media/stan.e25ed94c.png",
   "static/media/butters.png": "/Clicky-Game-Southpark/static/media/butters.58d9fe27.png",
-  "static/css/main.5f6f2f9b.chunk.css.map": "/Clicky-Game-Southpark/static/css/main.5f6f2f9b.chunk.css.map",
+  "static/css/main.005418b0.chunk.css.map": "/Clicky-Game-Southpark/static/css/main.005418b0.chunk.css.map",
   "index.html": "/Clicky-Game-Southpark/index.html",
-  "precache-manifest.1c7e6c58b70457f9356826b20d42c9e3.js": "/Clicky-Game-Southpark/precache-manifest.1c7e6c58b70457f9356826b20d42c9e3.js",
+  "precache-manifest.864b90b76a38ae20ecd1f4b3b4c127a8.js": "/Clicky-Game-Southpark/precache-manifest.864b90b76a38ae20ecd1f4b3b4c127a8.js",
   "service-worker.js": "/Clicky-Game-Southpark/service-worker.js"
 }
